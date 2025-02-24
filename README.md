@@ -1,5 +1,7 @@
 # Welcome to the 👋
 
+##Learning as I learn
+
 <!--
 **ChatJGT/ChatJGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
